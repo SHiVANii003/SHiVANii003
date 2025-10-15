@@ -43,15 +43,6 @@ I love turning design ideas into polished, responsive, and reusable UI component
 
 Even though some of my work is in private repos, here’s what I’ve built and contributed to 👇
 
-#### 🪄 **Enterprise Client Dashboard**
-
-> _Next.js • TypeScript • Tailwind CSS • REST APIs_
-
-- Built responsive dashboards for analytics and insights visualisation.
-- Implemented custom table components, filters, and dynamic forms.
-- Integrated secure APIs for fetching and managing real-time data.
-- Improved component reusability by 40% through modular design.
-
 #### 🛍️ **E-Commerce Web App (Intern Project)**
 
 > _React • Context API • CSS Modules_
