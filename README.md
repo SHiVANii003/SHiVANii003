@@ -74,7 +74,7 @@ Even though some of my work is in private repos, here’s what I’ve built and 
 | **Frameworks & Tools** | React, Next.js, Tailwind CSS, Vite              |
 | **Version Control**    | Git, GitHub                                     |
 | **CS Fundamentals**    | DSA, OS, DBMS, CN, OOP                          |
-| **Soft Skills**        | Team Collaboration, Problem Solving, Mentorship |
+| **Soft Skills**        | Team Collaboration, Problem Solving, Leadership |
 
 ---
 
@@ -128,7 +128,6 @@ When I’m not coding, you’ll find me exploring design systems, improving my w
 
 - 🧩 Build open-source UI components and starter templates
 - 🧠 Continue mastering TypeScript + Next.js for enterprise use
-- 🛰️ Prepare for **GATE** & explore opportunities at **ISRO**
 - 🌻 Share my learning journey openly on GitHub & LinkedIn
 
 ---
