@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivani 👋</h1>
 
 <p align="center">
-  <b>Frontend Engineer | React • TypeScript • Next.js • Tailwind CSS</b><br/>
+  <b>Frontend Developer | React • TypeScript • Next.js • Tailwind CSS</b><br/>
   Passionate about building scalable, user-friendly web interfaces 🚀
 </p>
 
