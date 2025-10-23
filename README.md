@@ -9,7 +9,7 @@
 
 ### 🌸 About Me
 
-I’m **Shivani Prajapati**, a **Junior Frontend Engineer** with real-world experience in building performant and visually appealing web apps using **React**, **TypeScript**, and **Next.js**.
+I’m **Shivani Prajapati**, a **Junior Frontend Developer** with real-world experience in building performant and visually appealing web apps using **React**, **TypeScript**, and **Next.js**.
 
 I love turning design ideas into polished, responsive, and reusable UI components.  
 💡 My focus: writing clean, maintainable code that delivers smooth user experiences.
